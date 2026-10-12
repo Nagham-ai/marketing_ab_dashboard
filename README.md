@@ -133,3 +133,5 @@ The report includes:
 **[Nagham Hesham Hamed**
 Data Analyst · Excel · SQL · Power BI
 [LinkedIn](https://www.linkedin.com/in/nagham-hesham1357/) · [GitHub](https://github.com/Nagham-ai)
+
+#PowerBI #DataAnalysis #DataAnalytics #ABTesting #DAX #PowerQuery #DataVisualization #Dashboard #MarketingAnalytics #BusinessIntelligence
